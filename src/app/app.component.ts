@@ -24,7 +24,7 @@ export class AppComponent implements OnInit{
     echarts.registerMap('bra', brazil);
     this.matOption = {
       title: {
-        text: 'Brasil Population Estimates (2012)',
+        text: 'Brasil Population Estimates (2022)',
         subtext: 'Data from www.ibge.gov.br',
         left: 'right'
       },
